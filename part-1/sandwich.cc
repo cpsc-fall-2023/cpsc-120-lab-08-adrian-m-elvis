@@ -1,4 +1,8 @@
-// TODO: Add the required header
+// Adrian Martinez
+// AdrianM22@csu.fullerton.edu
+// @Martinez-Adrian 
+// Partner: @Enventre
+//
 
 
 #include <iostream>
